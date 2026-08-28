@@ -1,0 +1,7 @@
+{
+  "name": "SF Sofa Centre",
+  "description": "SF Sofa Centre offers expert sofa repair, upholstery, frame repair, foam renewal and customization services across Delhi and Noida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
