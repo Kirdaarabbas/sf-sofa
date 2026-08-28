@@ -140,9 +140,9 @@ export const SERVICES_DATA: ServiceItem[] = [
     features: ['32D - 50D High Density Foam Options', 'Memory Foam & Feather Topping', 'Long-Lasting Shape Rebound'],
   },
   {
-    id: 'total-customization',
+    id: 'full-customization',
     number: '05',
-    title: 'Total Customization',
+    title: 'Full Customization',
     tagline: 'Bespoke Design, Dimensions & Luxury Styling',
     description: 'Transform your sofa according to your preferred design, size, fabric, shape and comfort requirements.',
     beforeImage: ASSETS.custom.before,
